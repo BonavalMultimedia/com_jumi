@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="component" version="2.5" method="upgrade">
     <name>com_jumi</name>
-    <author>Simon Poghosyan</author>
-    <creationDate>January 2011</creationDate>
+    <author>Simon Poghosyan, edited by Miguel Vazquez (Bonaval)</author>
+    <creationDate>April 2016</creationDate>
     <copyright>Copyright (c) 2008 - 2013 Simon Poghosyan, Edvard Ananyan. All rights reserved.</copyright>
     <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
     <authorEmail>info@2glux.com</authorEmail>
