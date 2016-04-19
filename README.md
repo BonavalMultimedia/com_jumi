@@ -1,6 +1,6 @@
 # com_jumi
 Joomla Component to insert code in anywhere
 
-Edited to solve some warnings
+Edited by Bonaval to solve some warnings
 
 ##
